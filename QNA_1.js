@@ -25,7 +25,7 @@ console.log(brah)
 
 const dictnry = {
     she : "female",
-    he : "male",
+    he : "dmale",
     femalegurls : "she"
 
 }

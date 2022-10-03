@@ -1,3 +1,5 @@
+const prompt = require("prompt-sync")({ sigint: true});
+
 let a = prompt("Name?")
 
 a = Number.parseInt(a)
@@ -13,4 +15,4 @@ else {
     alert("correct");
 }
 
-console.log(typeof(a))
+console.log(typeof(a));
